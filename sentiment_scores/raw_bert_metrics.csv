@@ -1,0 +1,2 @@
+accuracy,precision_weighted,recall_weighted,f1_weighted,class_0_precision,class_0_recall,class_0_f1,class_0_support,class_1_precision,class_1_recall,class_1_f1,class_1_support,class_2_precision,class_2_recall,class_2_f1,class_2_support
+0.04032450489143403,0.0016260656947392868,0.04032450489143403,0.003126074003051537,0.04032450489143403,1.0,0.07752293577981652,169,0.0,0.0,0.0,2599,0.0,0.0,0.0,1423

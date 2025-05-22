@@ -1,0 +1,13 @@
+method,target,Return_coef,Volatility_coef,Log_Volume_coef,Sentiment_score_coef,Sentiment_volatility_coef,residual
+market_features,Return,-6.22e-2,-5.01e-2,-2.41e-2,NaN,NaN,-8.07e-2
+market_features,Volatility,1.69e-2,-3.72e-2,1.97e-1,NaN,NaN,-9.16e-2
+market_features,Log_Volume,-2.29e-2,5.28e-2,7.61e-2,NaN,NaN,-4.50e-2
+market_features+ground_truth,Return,4.50e-2,-8.70e-2,2.71e-2,-6.47e-2,3.14e-2,-1.18e-1
+market_features+ground_truth,Volatility,1.98e-2,-4.18e-2,-1.21e-2,2.28e-2,1.71e-1,1.14e-1
+market_features+ground_truth,Log_Volume,1.24e-1,-2.10e-1,-6.99e-3,2.50e-2,3.42e-2,6.44e-2
+market_features+bert,Return,5.11e-2,-3.13e-2,1.35e-2,7.69e-2,-4.35e-3,-9.09e-1
+market_features+bert,Volatility,-1.84e-2,2.32e-2,-9.20e-2,1.34e-2,2.05e-1,-5.94e-2
+market_features+bert,Log_Volume,-2.04e-2,-7.34e-2,1.04e-1,-8.49e-2,-6.14e-2,2.24e-1
+market_features+finbert,Return,-4.72e-2,-1.21e-1,2.06e-1,3.11e-1,-1.42e-1,-9.99e-2
+market_features+finbert,Volatility,-9.73e-2,2.39e-2,8.98e-2,-1.64e-1,1.19e-1,-5.15e-2
+market_features+finbert,Log_Volume,-6.84e-2,-1.06e-1,5.86e-2,1.31e-2,-2.66e-2,-3.74e-1

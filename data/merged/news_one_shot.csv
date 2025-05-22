@@ -1,0 +1,4 @@
+ticker,sentiment,title,annot_title,date,source_dataset
+AMZN,positive,Billionaire David Tepper Has 14% of His Portfolio Invested in These 2 Brilliant Artificial Intelligence (AI) Stocks,[TICKER] AMZN | [TITLE] Billionaire David Tepper Has 14% of His Portfolio Invested in These 2 Brilliant Artificial Intelligence (AI) Stocks,2024-12-07,polygon_news_2024_raw
+AAPL,negative,"Warren Buffett Has Sold $133 Billion Worth of Stock in 2024 So Far, but This Small $550 Million Purchase Is Sending a Big Message to Investors","[TICKER] AAPL | [TITLE] Warren Buffett Has Sold $133 Billion Worth of Stock in 2024 So Far, but This Small $550 Million Purchase Is Sending a Big Message to Investors",2024-12-07,polygon_news_2024_raw
+AAPL,neutral,1 Growth Stock Down 60% to Buy Right Now,[TICKER] AAPL | [TITLE] 1 Growth Stock Down 60% to Buy Right Now,2024-12-07,polygon_news_2024_raw
